@@ -1,0 +1,92 @@
+totalReadsPerRank_R_C[0]: 1440, 1440    totalWritesPerRank_R_C[0]: 217, 217
+totalReadsPerRank_R_C[1]: 8253, 8236    totalWritesPerRank_R_C[1]: 58, 58
+totalPowerPerRank: 0.715292	actprePower: 0.397089	burstPower: 0.00187286	refreshPower: 0.31633
+totalEnergyPerRank: 0.305156	actpreEnergy: 0.169405	burstEnergy: 0.000798996	refreshEnergy: 0.134952
+totalPowerPerRank: 2.30769	actprePower: 1.98784	burstPower: 0.00926455	refreshPower: 0.310578
+totalEnergyPerRank: 0.984499	actpreEnergy: 0.848049	burstEnergy: 0.00395242	refreshEnergy: 0.132498
+bandWidth_channel[0]: 1.3903
+readsBandwidth[0]: 1.35188
+writesBandwidth[0]: 0.0384215
+latency_read_channel[0]: 2154.34
+totalReadsPerChannel[0]: 9676
+totalWritesPerChannel[0]: 275
+totalPowerPerChannel[0]: 4.781
+totalEnergyPerChannel[0]: 2.03966e+09
+
+totalReadsPerRank_R_C[0]: 0, 0    totalWritesPerRank_R_C[0]: 0, 0
+totalReadsPerRank_R_C[1]: 0, 0    totalWritesPerRank_R_C[1]: 0, 0
+totalReadsPerRank_R_C[2]: 0, 0    totalWritesPerRank_R_C[2]: 0, 0
+totalReadsPerRank_R_C[3]: 0, 0    totalWritesPerRank_R_C[3]: 0, 0
+totalPowerPerRank: 0	actprePower: 0	burstPower: 0	refreshPower: 0
+totalEnergyPerRank: 0	actpreEnergy: 0	burstEnergy: 0	refreshEnergy: 0
+totalPowerPerRank: 0	actprePower: 0	burstPower: 0	refreshPower: 0
+totalEnergyPerRank: 0	actpreEnergy: 0	burstEnergy: 0	refreshEnergy: 0
+totalPowerPerRank: 0	actprePower: 0	burstPower: 0	refreshPower: 0
+totalEnergyPerRank: 0	actpreEnergy: 0	burstEnergy: 0	refreshEnergy: 0
+totalPowerPerRank: 0	actprePower: 0	burstPower: 0	refreshPower: 0
+totalEnergyPerRank: 0	actpreEnergy: 0	burstEnergy: 0	refreshEnergy: 0
+bandWidth_channel[1]: 0
+readsBandwidth[1]: 0
+writesBandwidth[1]: 0
+latency_read_channel[1]: -nan
+totalReadsPerChannel[1]: 0
+totalWritesPerChannel[1]: 0
+totalPowerPerChannel[1]: 0
+totalEnergyPerChannel[1]: 0
+
+bandWidth_MS: 1.3903
+totalReadsBandwidth_MS: 1.35188
+totalWritesBandwidth_MS: 0.0384215
+latency_MS_Read: 2154.34
+latency_MS_Write: 803.127
+totalReads_MS: 9676
+totalWrites_MS: 275
+currentClockCycle: 170647
+cpuCycle: 853232
+trasactionCycle: 330400
+dram: 10000
+pcm: 0
+dram_read: 9725
+dram_write: 275
+pcm_read: 0
+pcm_write: 0
+rowBufferHitCount_dram: 0
+rowBufferHitCount_pcm: 0
+actpreNum: 19904
+burstNum: 9952
+refreshNum: 109
+actpreNum_dram: 19904
+burstNum_dram: 9952
+refreshNum_dram: 109
+actpreNum_pcm: 0
+burstNum_pcm: 0
+refreshNum_pcm: 0
+totalPower_MS: 3.02298
+totalActprePower_MS: 2.38493
+totalBurstPower_MS: 0.0111374
+totalRefreshPower_MS: 0.626908
+totalEnergy_MS: 1.28966
+totalActpreEnergy_MS: 1.01745
+totalBurstEnergy_MS: 0.00475142
+totalRefreshEnergy_MS: 0.26745
+readLatency1: 133
+readLatency2: 968
+readLatency3: 969
+readLatency4: 969
+readLatency5: 969
+readLatency6: 969
+readLatency7: 970
+readLatency8: 1033
+readLatency9: 1033
+readLatency10: 1120
+writeLatency1: 12
+writeLatency2: 31
+writeLatency3: 49
+writeLatency4: 77
+writeLatency5: 115
+writeLatency6: 216
+writeLatency7: 421
+writeLatency8: 707
+writeLatency9: 1003
+writeLatency10: 1111
+end
