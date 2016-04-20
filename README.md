@@ -20,6 +20,7 @@ for concrete trace format.
 
 4. How to run the simulator?
 	The shell script run.sh gives an example of running the HMSim1.
-  
 
+Please contact Fei Xia (xia.flover@gmail.com) if you have any questions. The author would like to receive your advices and improve the simulator. 
+ 
 [1]. Architecting phase change memory as a scalable dram alternative. ISCA'2009
